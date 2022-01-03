@@ -46,7 +46,7 @@
 }
 
 a {
-    font-family: cursive;
+    font-family: "Rubik";
     font-weight: bold;
 }
 
@@ -65,7 +65,7 @@ h6 {
 }
 
 p {
-    font-family: cursive;
+    font-family: "Rubik";
     font-weight: 400;
     color: #232147;
 }
@@ -292,7 +292,7 @@ section.header-bg-parent:after {
 
 .feature-col h4 {
     font-size: 14px;
-    font-family: cursive;
+    font-family: "Rubik";
     color: #4d4d4d;
     margin-bottom: 20px;
 }
@@ -326,7 +326,7 @@ section.header-bg-parent:after {
     color: #696687;
     font-size: 16px;
     line-height: 28px;
-    font-family: cursive;
+    font-family: "Rubik";
     font-weight: 400;
     padding: 13px 100px 0px 0px;
 }
@@ -362,7 +362,7 @@ section.header-bg-parent:after {
     color: #4d4d4d;
     font-size: 16px;
     font-weight: 400;
-    font-family: cursive;
+    font-family: "Rubik";
     padding: 20px 0px;
 }
 
@@ -435,7 +435,7 @@ section#why-choose-us {
 .progress-info-col {
     float: right;
     width: 70%;
-    font-family: cursive;
+    font-family: "Rubik";
 }
 
 .expand-img-col {
@@ -487,14 +487,14 @@ section#why-choose-us {
 
 .progress-info h3 {
     color: #ff8a38;
-    font-family: cursive;
+    font-family: "Rubik";
     font-weight: 600;
 }
 
 .progress-info p {
     color: #4d4d4d;
     font-size: 16px;
-    font-family: cursive;
+    font-family: "Rubik";
     line-height: 24px;
     padding-top: 10px;
 }
@@ -502,7 +502,7 @@ section#why-choose-us {
 .progress-infos h5{
     color: #4d4d4d;
     font-size: 16px;
-    font-family: cursive;
+    font-family: "Rubik";
     line-height: 24px;
 }
 
@@ -547,7 +547,7 @@ div#faq-accordion p {
     color: #696687;
     font-size: 15px;
     font-weight: 400;
-    font-family: cursive;
+    font-family: "Rubik";
     line-height: 25px;
 }
 
@@ -583,7 +583,7 @@ div#faq-accordion p {
 
 .faq-img-info p {
     font-size: 18px;
-    font-family: cursive;
+    font-family: "Rubik";
     line-height: 28px;
     font-weight: 400;
     margin-bottom: 25px;
