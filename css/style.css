@@ -3243,13 +3243,14 @@ section.list-right span.price:after {
     text-transform: uppercase;
     padding: 8px 18px;
     border: none;
-    background-color: #f3c500;
+    background-color: #ff8d37ff;
+	border-radius: 4px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
 }
-.feed-back-form input[type="submit"]:hover 
-	color: #000;
-	background-color: #01a185;
+.feed-back-form input[type="submit"]:hover{
+	color: rgb(253, 253, 253);
+	background-color:  rgb(28, 27, 27);
 }
 /*-- //Feedback-page --*/
 
@@ -3259,7 +3260,7 @@ section.list-right span.price:after {
 }
 .privacy h4 {
     font-size: 25px;
-    color: #01a185;
+    color: #ff8d37ff;
 	margin-top: 25px;
 }
 .privacy p{
@@ -3277,7 +3278,7 @@ ol.privacy-start li a,ul.privacy-start li a{
 	line-height: 30px;
 }
 ol.privacy-start li a:hover,ul.privacy-start li a:hover {
-  color: #01a185;
+	color: #ff8d37ff;
 }
 .use-privay{
 	padding: 4px 0;
@@ -3325,7 +3326,7 @@ ul.privacy-start {
     margin-right: 4%;
 }
 .post-ad-form form label span {
-	color:red;
+	color: #ff8d37ff;
 }
 .post-ad-form input[type="text"] {
     padding: 10px 10px 10px 10px;
